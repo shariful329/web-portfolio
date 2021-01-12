@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+    h1{ 
+        font-size: 50px;
+
+    }
+    h3{
+        font-size: 30px;
+        color: darkorchid;
+    }
+    #very{
+        color: orange;
+    }
+    #you{
+        color: darkblue;
+    }
+    
+    .one{
+        width: 40%;
+        float: left;
+        margin-left: 2%;
+        padding-left: 5%;
+    }
+    .one img{
+        width: 100%;
+    }
